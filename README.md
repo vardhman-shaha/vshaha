@@ -26,18 +26,10 @@ Welcome to my GitHub profile! I am a **DevOps Engineer** with a passion for buil
   
 ---
  
-### 📚 Certifications:
-- AWS Certified Solutions Architect – Associate
-- Certified Kubernetes Administrator (CKA)
-- HashiCorp Certified: Terraform Associate
-- Azure DevOps Engineer Expert
- 
----
- 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [Vardhman Shaha](https://www.linkedin.com/in/vardhman-shaha)
 - **Twitter**: [@vardhman_shaha](https://twitter.com/vardhman_shaha)
-- **Email**: vardhmanshaha@gmail.com.com 
+- **Email**: vardhmanshaha@gmail.com
  
 ---
  

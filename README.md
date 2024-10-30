@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a **DevOps Engineer** with a passion for buil
 - **LinkedIn**: www.linkedin.com/in/vardhman-shaha
 - **Twitter**: [@vardhman_shaha](https://twitter.com/vardhman_shaha)
 - **Email**: vardhmanshaha@gmail.com/svardhman@gmail.com
-- **URL**:
+- **URL**: www.svardhman.dev
 ---
  
 ### 💡 Fun Fact:
